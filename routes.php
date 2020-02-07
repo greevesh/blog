@@ -9,6 +9,4 @@ $routes->define([
     'about' => 'PagesController@about',
     'blog' => 'PagesController@blog',
     'contact' => 'PagesController@contact'
-]);
-
-var_dump($routes); 
+]); 
