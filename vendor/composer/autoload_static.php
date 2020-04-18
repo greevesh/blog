@@ -10,6 +10,8 @@ class ComposerStaticInita4270282fe45fd468d5b7ae4bc5a6815
         'ComposerAutoloaderInita4270282fe45fd468d5b7ae4bc5a6815' => __DIR__ . '/..' . '/composer/autoload_real.php',
         'Composer\\Autoload\\ClassLoader' => __DIR__ . '/..' . '/composer/ClassLoader.php',
         'Composer\\Autoload\\ComposerStaticInita4270282fe45fd468d5b7ae4bc5a6815' => __DIR__ . '/..' . '/composer/autoload_static.php',
+        'Request' => __DIR__ . '/../..' . '/Request.php',
+        'Router' => __DIR__ . '/../..' . '/Router.php',
     );
 
     public static function getInitializer(ClassLoader $loader)

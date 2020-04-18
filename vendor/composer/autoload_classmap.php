@@ -9,4 +9,6 @@ return array(
     'ComposerAutoloaderInita4270282fe45fd468d5b7ae4bc5a6815' => $vendorDir . '/composer/autoload_real.php',
     'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',
     'Composer\\Autoload\\ComposerStaticInita4270282fe45fd468d5b7ae4bc5a6815' => $vendorDir . '/composer/autoload_static.php',
+    'Request' => $baseDir . '/Request.php',
+    'Router' => $baseDir . '/Router.php',
 );
