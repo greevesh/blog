@@ -1,5 +1,4 @@
 <?php
 
-require 'Router.php';
-require 'Request.php';
-require 'routes.php';
+// require 'Router.php';
+// require 'Request.php';

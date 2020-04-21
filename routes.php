@@ -3,7 +3,7 @@
 $router = new Router;
 
 $router->define([
-    '' => 'public/index.php',
+    '' => '../controllers/home.php',
     'about' => '../controllers/about.php',
     'blog' => '../controllers/blog.php',
     'contact' => '../controllers/contact.php'
